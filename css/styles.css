@@ -1,0 +1,52 @@
+.rightfloat {
+  width: 30%;
+  float: right;
+  background-color: #33CCCC;
+}
+.leftfloat {
+  width:70%;
+  float: left;
+  background-color: #90EE90;
+
+}
+
+.grey {
+  background-color: #CBCBCB;
+  margin: 0px;
+  padding:0;
+  overflow: auto;
+
+}
+
+p.pink {
+  background-color: pink;
+
+display: inline;
+  margin: 0px;
+
+}
+
+.pinkdiv {
+    margin: 0px;
+  background-color:pink;
+  width: 100%;
+  height: 20%;
+display: block;
+}
+
+.h1 {
+  margin: 0px;
+  padding:0;
+}
+
+.sidepadding{
+  border: 0px solid black;
+
+padding-left: 50px;
+padding-right: 50px;
+background-color: brown;
+overflow: auto;
+
+
+
+}
