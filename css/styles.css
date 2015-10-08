@@ -1,25 +1,33 @@
 .rightfloat {
-  width: 30%;
+  width: 28%;
+  height:1000px;
   float: right;
   background-color: #33CCCC;
+  padding: 1%;
 }
 .leftfloat {
-  width:70%;
+  width:65%;
+
   float: left;
   background-color: #90EE90;
+    height:1000px;
+    padding: 1%;
+    width:68%;
+
 
 }
 
 .grey {
-  background-color: #CBCBCB;
+  background-color: #DBFFFF;
   margin: 0px;
   padding:0;
   overflow: auto;
 
 }
 
-p.pink {
+a.pink {
   background-color: pink;
+  font-size: 20px;
 
 display: inline;
   margin: 0px;
@@ -44,9 +52,11 @@ display: block;
 
 padding-left: 50px;
 padding-right: 50px;
-background-color: brown;
+background-color: #A0A0A0 ;
 overflow: auto;
 
+}
 
-
+.rightfloat li {
+  margin-left:30px;
 }
